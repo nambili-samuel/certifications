@@ -10,7 +10,7 @@ Welcome to my Professional Certifications Repository! This repository is a centr
 
 ## Certifications
 
-1. [Certification Name 1](certification_name_1.pdf)
+1. [Association for Molecular Pathology](https://github.com/nambilisamuel/Certifications/blob/main/Association%20for%20Molecular%20Pathology.pdf)
    - Description: Brief description of the certification and its relevance to your expertise.
    - Issuer: Name of the organization or institution that issued the certification.
    - Date Earned: Date when the certification was earned.
