@@ -1,6 +1,6 @@
 # Certifications
 
-This repository contains certifications earned by [Your Name]. Each certification represents a milestone in my professional journey and demonstrates my expertise in various domains.
+Welcome to my Professional Certifications Repository! This repository serves as a centralized location to showcase my professional certifications and achievements. Each certification is documented with relevant sources and accredited institutions. This repository contains certifications earned by Nambili Samuel. Each certification represents a milestone in my professional journey and demonstrates my expertise in the medical field.
 
 ## Table of Contents
 
