@@ -12,7 +12,7 @@ Welcome to my Professional Certifications Repository! This repository is a centr
 
 1. [Association for Molecular Pathology](https://github.com/nambilisamuel/Certifications/blob/main/Association%20for%20Molecular%20Pathology.pdf)
    - Description: This certificate is designed for Lab directors, managers, lab technologists, and practicing molecular pathologists.
-   - Issuer: Association for Molecular Pathology (AMP). [https://www.amp.org/](More)
+   - Issuer: Association for Molecular Pathology (AMP). [More](https://www.amp.org/)
    - Date Earned: 03 December 2023.
 
 2. [International Diabetes Federation](https://github.com/nambilisamuel/Certifications/blob/main/Biosimilar%20Insulin.pdf)
