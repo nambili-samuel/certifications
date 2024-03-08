@@ -1,6 +1,6 @@
 # Certifications
 
-Welcome to my Professional Certifications Repository! This repository serves as a centralized location to showcase my professional certifications and achievements in the medical field. Each certification is meticulously documented with relevant sources and accredited institutions, providing comprehensive insight into my expertise and qualifications.
+Welcome to my Professional Certifications Repository! This repository is a centralized location to showcase my professional certifications and achievements in the medical field. Each certification is meticulously documented with relevant sources and accredited institutions, providing comprehensive insight into my expertise and qualifications. Professional certifications play a pivotal role in validating expertise and enhancing credibility.
 
 ## Table of Contents
 
