@@ -19,6 +19,11 @@ Welcome to my Professional Certifications Repository! This repository is a centr
    - Description: Brief description of the certification and its relevance to your expertise.
    - Issuer: Name of the organization or institution that issued the certification.
    - Date Earned: Date when the certification was earned.
+  
+3. [National Institutes of Health]((https://github.com/nambilisamuel/Certifications/blob/main/Clinical%20Pharmacology.pdf)
+   - Description: Brief description of the certification and its relevance to your expertise.
+   - Issuer: Name of the organization or institution that issued the certification.
+   - Date Earned: Date when the certification was earned.
 
 <!-- Add more certifications as needed -->
 
