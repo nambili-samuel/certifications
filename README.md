@@ -15,7 +15,7 @@ Welcome to my Professional Certifications Repository! This repository is a centr
    - Issuer: Name of the organization or institution that issued the certification.
    - Date Earned: Date when the certification was earned.
 
-2. [Certification Name 2](certification_name_2.pdf)
+2. [International Diabetes Federation](https://github.com/nambilisamuel/Certifications/blob/main/Biosimilar%20Insulin.pdf)
    - Description: Brief description of the certification and its relevance to your expertise.
    - Issuer: Name of the organization or institution that issued the certification.
    - Date Earned: Date when the certification was earned.
