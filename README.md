@@ -11,9 +11,9 @@ Welcome to my Professional Certifications Repository! This repository is a centr
 ## Certifications
 
 1. [Association for Molecular Pathology](https://github.com/nambilisamuel/Certifications/blob/main/Association%20for%20Molecular%20Pathology.pdf)
-   - Description: This certificate is designed for Lab directors, managers, lab technologists, and practicing molecular pathologists.
-   - Issuer: Association for Molecular Pathology (AMP). [More](https://www.amp.org/)
-   - Date Earned: 03 December 2023.
+   - **Description:** This certificate is designed for Lab directors, managers, lab technologists, and practicing molecular pathologists.
+   - **Issuer:** Association for Molecular Pathology (AMP). 
+   - **Date Earned:** 03 December 2023.
 
 2. [International Diabetes Federation](https://github.com/nambilisamuel/Certifications/blob/main/Biosimilar%20Insulin.pdf)
    - Description: Brief description of the certification and its relevance to your expertise.
@@ -21,9 +21,9 @@ Welcome to my Professional Certifications Repository! This repository is a centr
    - Date Earned: Date when the certification was earned.
   
 3. [National Institutes of Health](https://github.com/nambilisamuel/Certifications/blob/main/Clinical%20Pharmacology.pdf)
-   - Description: Brief description of the certification and its relevance to your expertise.
-   - Issuer: Name of the organization or institution that issued the certification.
-   - Date Earned: Date when the certification was earned.
+   - **Description:** Brief description of the certification and its relevance to your expertise.
+   - **Issuer:** International Diabetes Federation (IDF).
+   - **Date Earned:** Date when the certification was earned.
 
 4. [Stanford University School of Medicine](https://github.com/nambilisamuel/Certifications/blob/main/Emergency%20and%20Critical%20Care.pdf)
    - Description: Brief description of the certification and its relevance to your expertise.
