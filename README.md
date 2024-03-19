@@ -16,7 +16,7 @@ Welcome to my Professional Certifications Repository! This repository is a centr
    - **Date Earned:** 03 December 2023.
 
 2. [International Diabetes Federation](https://github.com/nambilisamuel/Certifications/blob/main/Biosimilar%20Insulin.pdf)
-   - **Description:** Brief description of the certification and its relevance to your expertise.
+   - **Description:** The International Diabetes Federation is an international organization with 240 associations in more than 161 countries and headquartered in Brussels, Belgium. 
    - **Issuer:** International Diabetes Federation (IDF).
    - Date Earned: Date when the certification was earned.
   
