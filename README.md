@@ -49,3 +49,8 @@ To view a specific certification, simply click on the certification name provide
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+---
+
+This content is protected by copyright law. Any unauthorized use, reproduction, or distribution is strictly prohibited. This project is licensed under the MIT License. 
+Feel free to use, modify, and distribute the code, subject to the terms and conditions of the license. See the LICENSE.md file for details.
+
