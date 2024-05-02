@@ -55,7 +55,7 @@ To view a specific certification, locate and click on the certification name lis
 
 This project is licensed under the MIT License, allowing you to freely view and share the certificates, provided you adhere to the terms and conditions specified in the license. See the LICENSE.md file for full details.
 
-While the project is under copyright protection, the MIT License grants you significant freedoms with the certificates. However, any unauthorized use, reproduction, or distribution outside the license terms is strictly prohibited.
+While the certificates are under copyright protection, the MIT License grants you significant freedom to download certificates. However, unauthorized use, reproduction, or distribution outside the license terms is strictly prohibited.
 
 If you have any questions about sharing or viewing these certificates, or about the MIT License, please refer to the LICENSE.md file or contact the project owner for further information.
 
