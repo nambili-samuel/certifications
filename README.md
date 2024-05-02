@@ -36,9 +36,9 @@ Welcome to my Professional Certifications Repository! This repository is a centr
    - **Date Issued:** This certification was earned on 25 October 2023.
   
 6. [Havard School of Medicine](https://github.com/Nambili-Samuel/Certifications/blob/main/Havard%20School%20of%20Medicine.pdf)
-   - **Description:** Brief description of the certification and its relevance to your expertise.
-   - **Issuer:** Name of the organization or institution that issued the certification.
-   - **Date Issued:** Date when the certification was earned.
+   - **Description:** This certification is designed to provide healthcare professionals with the knowledge and skills necessary to deliver effective clinical care to individuals with Autism Spectrum Disorder (ASD). 
+   - **Issuer:** Havard School of Medicine.
+   - **Date Issued:** This certification was earned on 09 December 2023.
   
 7. [Johns Hopkins Medicine](https://github.com/Nambili-Samuel/Certifications/blob/main/Immuno-engineering.pdf)
    - **Description:** Brief description of the certification and its relevance to your expertise.
