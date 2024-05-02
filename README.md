@@ -1,6 +1,6 @@
 # Certifications
 
-Welcome to Nambili Samuel's professional certifications repository. This repository serves as a comprehensive collection of Nambili Samuel's certifications and achievements in the medical field and Information Technology, thus reflecting his dedication to maintaining a high standard of professional expertise and a commitment to ongoing education.
+Welcome to [Nambili Samuel's](https://github.com/Nambili-Samuel) professional certifications repository. This repository serves as a comprehensive collection of Nambili Samuel's certifications and achievements in the medical field and Information Technology, thus reflecting his dedication to maintaining a high standard of professional expertise and a commitment to ongoing education.
 
 Each certification is carefully organized to highlight the key details, including the certification's name, the issuing institution, the date of completion, and any relevant context that demonstrates its importance. By presenting this information in a centralized location, Nambili provides a clear view of his qualifications and the breadth of his experience in the medical and digital world.
 
