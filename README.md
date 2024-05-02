@@ -31,9 +31,9 @@ Welcome to my Professional Certifications Repository! This repository is a centr
    - **Date Issued:** This certification was earned on 07 November 2023.
   
 5. [World Health Organization](https://github.com/nambilisamuel/Certifications/blob/main/Epidemiology%20-%20WHO.pdf)
-   - **Description:** Brief description of the certification and its relevance to your expertise.
-   - **Issuer:** Name of the organization or institution that issued the certification.
-   - **Date Issued:** Date when the certification was earned.
+   - **Description:** This program empowers healthcare professionals, researchers, and public health officials with the necessary skills and knowledge to identify, investigate, and control health-related events, such as disease outbreaks and pandemics.
+   - **Issuer:** World Health Organization (WHO).
+   - **Date Issued:** This certification was earned on 25 October 2023.
   
 6. [Havard School of Medicine](https://github.com/Nambili-Samuel/Certifications/blob/main/Havard%20School%20of%20Medicine.pdf)
    - **Description:** Brief description of the certification and its relevance to your expertise.
