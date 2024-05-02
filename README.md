@@ -41,9 +41,9 @@ Welcome to my Professional Certifications Repository! This repository is a centr
    - **Date Issued:** This certification was earned on 09 December 2023.
   
 7. [Johns Hopkins Medicine](https://github.com/Nambili-Samuel/Certifications/blob/main/Immuno-engineering.pdf)
-   - **Description:** Brief description of the certification and its relevance to your expertise.
-   - **Issuer:** Name of the organization or institution that issued the certification.
-   - **Date Issued:** Date when the certification was earned.
+   - **Description:** The Immuno-engineering course explores new approaches for developing targeted therapies, vaccines, and diagnostic tools to address a variety of diseases, including cancer, autoimmune disorders, and infectious diseases.
+   - **Issuer:** Johns Hopkins Medicine.
+   - **Date Issued:** This certification was earned on 19 January 2024.
 
 <!-- Add more certifications as needed -->
 
