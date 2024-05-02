@@ -13,17 +13,17 @@ Welcome to my Professional Certifications Repository! This repository is a centr
 1. [Association for Molecular Pathology](https://github.com/nambilisamuel/Certifications/blob/main/Association%20for%20Molecular%20Pathology.pdf)
    - **Description:** This certificate is designed for Lab directors, managers, lab technologists, and practicing molecular pathologists.
    - **Issuer:** Association for Molecular Pathology (AMP). 
-   - **Date Earned:** 03 December 2023.
+   - **Date Issued:** This certification was earned on 03 December 2023.
 
 2. [International Diabetes Federation](https://github.com/nambilisamuel/Certifications/blob/main/Biosimilar%20Insulin.pdf)
    - **Description:** The International Diabetes Federation is an international organization with 240 associations in more than 161 countries and headquartered in Brussels, Belgium. 
    - **Issuer:** International Diabetes Federation (IDF).
-   - Date Earned: Date when the certification was earned.
+   - **Date Issued:** This certification was earned on 04 March 2024.
   
 3. [National Institutes of Health](https://github.com/nambilisamuel/Certifications/blob/main/Clinical%20Pharmacology.pdf)
    - **Description:** The course focuses on core principles of pharmacology: pharmacodynamics and pharmacokinetics - drug metabolism, transport, and drug therapy.
-   - **Issuer:** International Diabetes Federation (IDF).
-   - **Date Earned:** Date when the certification was earned.
+   - **Issuer:** National Institutes of Health (NIH).
+   - **Date Issued:** This certification was earned on 04 March 2024.
 
 4. [Stanford University School of Medicine](https://github.com/nambilisamuel/Certifications/blob/main/Emergency%20and%20Critical%20Care.pdf)
    - **Description:** The course focuses on core principles of pharmacology: pharmacodynamics and pharmacokinetics - drug metabolism, transport, and drug therapy.
