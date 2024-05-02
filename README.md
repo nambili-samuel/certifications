@@ -49,10 +49,13 @@ Welcome to my Professional Certifications Repository! This repository is a centr
 
 ## How to Use
 
-To view a specific certification, simply click on the certification name provided above. You can download the certification PDF for offline viewing or verification purposes.
+To view a specific certification, locate and click on the certification name listed above. This will open a detailed view of the certification, displaying key information such as the certification authority, date of issuance, and a summary of what it represents. You can easily download the certification in PDF format from this detailed view for offline viewing, record-keeping, or verification.
 
 ## MIT License
 
-This content is protected by copyright law. Any unauthorized use, reproduction, or distribution is strictly prohibited. This project is licensed under the MIT License. 
-Feel free to use, modify, and distribute the code, subject to the terms and conditions of the license. See the LICENSE.md file for details.
+This project is licensed under the MIT License, allowing you to freely view and share the certificates, provided you adhere to the terms and conditions specified in the license. See the LICENSE.md file for full details.
+
+While the project is under copyright protection, the MIT License grants you significant freedoms with the certificates. However, any unauthorized use, reproduction, or distribution outside the license terms is strictly prohibited.
+
+If you have any questions about sharing or viewing these certificates, or about the MIT License, please refer to the LICENSE.md file or contact the project owner for further information.
 
