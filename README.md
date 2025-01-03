@@ -55,24 +55,20 @@ We invite you to explore this repository to gain a deeper understanding of Nambi
 
 <!-- Add more certifications as needed -->
 
+##  Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nambilisamuel)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/yourusername)
+
 ## How to Use
 
 To view a specific certification, locate and click on the certification name listed above. This will open a detailed view of the certification, displaying key information such as the certification authority, date of issuance, and a summary of what it represents. You can easily download the certification in PDF format from this detailed view for offline viewing, record-keeping, or verification.
 
 ## MIT License
 
-This repo is licensed under the [MIT License](https://opensource.org/license/mit), allowing you to freely view and share the certificates, provided you adhere to the terms and conditions specified in this license. Please read the LICENSE.Md file for full details.
+This repo is licensed under the [MIT License](https://opensource.org/license/mit), allowing you to freely view and share the certificates, provided you adhere to the terms and conditions specified in this license. Please read the LICENSE.Md file for full details. While the certificates are under copyright protection, the MIT License grants you significant freedom to download certificates. However, unauthorized use, reproduction, or distribution outside the license terms is strictly prohibited.
 
-
-# Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/yourusername)
-
-While the certificates are under copyright protection, the MIT License grants you significant freedom to download certificates. However, unauthorized use, reproduction, or distribution outside the license terms is strictly prohibited.
-
-If you have any questions about sharing or viewing these certificates, or about the MIT License, please contact the repo's owner [LinkedIn Profile](https://www.linkedin.com/in/nambilisamuel/) for further information.
 
