@@ -58,10 +58,10 @@ We invite you to explore this repository to gain a deeper understanding of Nambi
 ##  Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nambilisamuel)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](www.youtube.com/channel/UCe7N_IrwXRL290P38Yni3aQ)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Nambili-Samuel)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/yourusername)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/namibiantimes)
 
 ## How to Use
 
@@ -70,5 +70,3 @@ To view a specific certification, locate and click on the certification name lis
 ## MIT License
 
 This repo is licensed under the [MIT License](https://opensource.org/license/mit), allowing you to freely view and share the certificates, provided you adhere to the terms and conditions specified in this license. Please read the LICENSE.Md file for full details. While the certificates are under copyright protection, the MIT License grants you significant freedom to download certificates. However, unauthorized use, reproduction, or distribution outside the license terms is strictly prohibited.
-
-
