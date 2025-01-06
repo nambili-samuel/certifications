@@ -55,6 +55,10 @@ We invite you to explore this repository to gain a deeper understanding of Nambi
 
 <!-- Add more certifications as needed -->
 
+## How to Use
+
+To view a specific certification, locate and click on the certification name listed above. This will open a detailed view of the certification, displaying key information such as the certification authority, date of issuance, and a summary of what it represents. You can easily download the certification in PDF format from this detailed view for offline viewing, record-keeping, or verification.
+
 ##  Connect Nambili Samuel
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nambilisamuel)
@@ -65,9 +69,6 @@ We invite you to explore this repository to gain a deeper understanding of Nambi
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/namibiantimes)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-lightgrey?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=p2GpjsQAAAAJ&hl=en)
 [![Quora](https://img.shields.io/badge/Quora-red?style=for-the-badge&logo=quora)](https://www.quora.com/profile/Nambili-Samuel)
-## How to Use
-
-To view a specific certification, locate and click on the certification name listed above. This will open a detailed view of the certification, displaying key information such as the certification authority, date of issuance, and a summary of what it represents. You can easily download the certification in PDF format from this detailed view for offline viewing, record-keeping, or verification.
 
 ## MIT License
 
