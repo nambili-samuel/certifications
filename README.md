@@ -62,6 +62,7 @@ We invite you to explore this repository to gain a deeper understanding of Nambi
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Nambili-Samuel)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/yourusername)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/namibiantimes)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-lightgrey?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=p2GpjsQAAAAJ&hl=en)
 
 ## How to Use
 
