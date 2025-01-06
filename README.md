@@ -55,7 +55,7 @@ We invite you to explore this repository to gain a deeper understanding of Nambi
 
 <!-- Add more certifications as needed -->
 
-##  Connect with me
+##  Connect Nambili Samuel
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nambilisamuel)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](www.youtube.com/channel/UCe7N_IrwXRL290P38Yni3aQ)
