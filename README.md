@@ -68,7 +68,6 @@ To view a specific certification, locate and click on the certification name lis
 [![Pinterest](https://img.shields.io/badge/Pinterest-red?style=for-the-badge&logo=pinterest)](https://www.pinterest.com/yourusername)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/namibiantimes)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-lightgrey?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=p2GpjsQAAAAJ&hl=en)
-[![Quora](https://img.shields.io/badge/Quora-red?style=for-the-badge&logo=quora)](https://www.quora.com/profile/Nambili-Samuel)
 
 ## MIT License
 
