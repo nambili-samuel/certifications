@@ -52,6 +52,11 @@ We invite you to explore this repository to gain a deeper understanding of Nambi
    - **Description:** The Immuno-engineering course explores new approaches for developing targeted therapies, vaccines, and diagnostic tools to address a variety of diseases, including cancer, autoimmune disorders, and infectious diseases.
    - **Issuer:** [Johns Hopkins Medicine](https://www.hopkinsmedicine.org/).
    - **Date Issued:** This certification was earned on 19 January 2024.
+  
+8. [University of Urbino “Carlo Bo”](https://github.com/nambili-samuel/certifications/blob/ebf21857ccda55e43ec78c4f19ede7e063a0703c/Artificial%20Intelligence.pdf))
+   - **Description:** The certificate recognizes his successful completion of a comprehensive program focused on core Artificial Intelligence principles, practical applications, Machine Learning and ethical aspects of artificial intelligence.
+   - **Issuer:** [University of Urbino “Carlo Bo](https://www.uniurb.it/international/).
+   - **Date Issued:** This certification was earned on 05 August 2025.
 
 <!-- Add more certifications as needed -->
 
