@@ -53,7 +53,7 @@ We invite you to explore this repository to gain a deeper understanding of Nambi
    - **Issuer:** [Johns Hopkins Medicine](https://www.hopkinsmedicine.org/).
    - **Date Issued:** This certification was earned on 19 January 2024.
   
-8. [Artificial Intelligence](https://github.com/nambili-samuel/certifications/blob/ebf21857ccda55e43ec78c4f19ede7e063a0703c/Artificial%20Intelligence.pdf))
+8. [Artificial Intelligence](https://github.com/nambili-samuel/certifications/blob/ebf21857ccda55e43ec78c4f19ede7e063a0703c/Artificial%20Intelligence.pdf)
    - **Description:** The certificate recognizes his successful completion of a comprehensive program focused on core Artificial Intelligence principles, practical applications, Machine Learning and ethical aspects of artificial intelligence.
    - **Issuer:** [University of Urbino “Carlo Bo](https://www.uniurb.it/international/).
    - **Date Issued:** This certification was earned on 05 August 2025.
