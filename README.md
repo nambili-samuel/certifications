@@ -43,7 +43,7 @@ We invite you to explore this repository to gain a deeper understanding of Nambi
    - **Issuer:** [World Health Organization](https://www.who.int/) (WHO).
    - **Date Issued:** This certification was earned on 25 October 2023.
   
-6. [Havard School of Medicine](https://github.com/Nambili-Samuel/Certifications/blob/main/Havard%20School%20of%20Medicine.pdf)
+6. [Clinical Care for Autistic Adults](https://github.com/Nambili-Samuel/Certifications/blob/main/Havard%20School%20of%20Medicine.pdf)
    - **Description:** This certification is designed to provide healthcare professionals with the knowledge and skills necessary to deliver effective clinical care to individuals with Autism Spectrum Disorder (ASD). 
    - **Issuer:** [Harvard Medical School](https://hms.harvard.edu/).
    - **Date Issued:** This certification was earned on 09 December 2023.
