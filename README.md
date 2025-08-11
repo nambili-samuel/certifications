@@ -48,7 +48,7 @@ We invite you to explore this repository to gain a deeper understanding of Nambi
    - **Issuer:** [Harvard Medical School](https://hms.harvard.edu/).
    - **Date Issued:** This certification was earned on 09 December 2023.
   
-7. [Johns Hopkins Medicine](https://github.com/Nambili-Samuel/Certifications/blob/main/Immuno-engineering.pdf)
+7. [Immunoengineering Fundamentals](https://github.com/Nambili-Samuel/Certifications/blob/main/Immuno-engineering.pdf)
    - **Description:** The Immuno-engineering course explores new approaches for developing targeted therapies, vaccines, and diagnostic tools to address a variety of diseases, including cancer, autoimmune disorders, and infectious diseases.
    - **Issuer:** [Johns Hopkins Medicine](https://www.hopkinsmedicine.org/).
    - **Date Issued:** This certification was earned on 19 January 2024.
