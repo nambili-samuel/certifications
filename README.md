@@ -28,7 +28,7 @@ We invite you to explore this repository to gain a deeper understanding of Nambi
    - **Issuer:** [International Diabetes Federation](https://idf.org/) (IDF).
    - **Date Issued:** This certification was earned on 04 March 2024.
   
-3. [National Institutes of Health](https://github.com/nambilisamuel/Certifications/blob/main/Clinical%20Pharmacology.pdf)
+3. [Principles of Clinical Pharmacology](https://github.com/nambilisamuel/Certifications/blob/main/Clinical%20Pharmacology.pdf)
    - **Description:** The course focuses on core principles of pharmacology: pharmacodynamics and pharmacokinetics - drug metabolism, transport, and drug therapy.
    - **Issuer:** [National Institutes of Health](https://www.nih.gov/) (NIH).
    - **Date Issued:** This certification was earned on 28 February 2024.
