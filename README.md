@@ -23,7 +23,7 @@ We invite you to explore this repository to gain a deeper understanding of Nambi
    - **Issuer:** [Association for Molecular Pathology](https://www.amp.org/) (AMP). 
    - **Date Issued:** This certification was earned on 03 December 2023.
 
-2. [International Diabetes Federation](https://github.com/nambilisamuel/Certifications/blob/main/Biosimilar%20Insulin.pdf)
+2. [Understanding Biosimilar Insulins](https://github.com/nambilisamuel/Certifications/blob/main/Biosimilar%20Insulin.pdf)
    - **Description:** The International Diabetes Federation is an international organization with 240 associations in more than 161 countries and headquartered in Brussels, Belgium. 
    - **Issuer:** [International Diabetes Federation](https://idf.org/) (IDF).
    - **Date Issued:** This certification was earned on 04 March 2024.
