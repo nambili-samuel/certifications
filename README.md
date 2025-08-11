@@ -19,7 +19,7 @@ We invite you to explore this repository to gain a deeper understanding of Nambi
 ## Certifications
 
 1. [Laboratory Management and Reporting](https://github.com/nambilisamuel/Certifications/blob/main/Association%20for%20Molecular%20Pathology.pdf)
-   - **Description:** This certificate is designed for Lab directors, managers, lab technologists, and practicing molecular pathologists.
+   - **Description:** This special course is designed for medical laboratory directors, managers, lab technicians, and molecular pathologists.
    - **Issuer:** [Association for Molecular Pathology](https://www.amp.org/) (AMP). 
    - **Date Issued:** This certification was earned on 03 December 2023.
 
