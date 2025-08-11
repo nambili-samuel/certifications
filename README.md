@@ -33,7 +33,7 @@ We invite you to explore this repository to gain a deeper understanding of Nambi
    - **Issuer:** [National Institutes of Health](https://www.nih.gov/) (NIH).
    - **Date Issued:** This certification was earned on 28 February 2024.
 
-4. [Stanford University School of Medicine](https://github.com/nambilisamuel/Certifications/blob/main/Emergency%20and%20Critical%20Care.pdf)
+4. [Emergency and Critical Care](https://github.com/nambilisamuel/Certifications/blob/main/Emergency%20and%20Critical%20Care.pdf)
    - **Description:** The course "Emergency and Critical Care" is designed to provide healthcare professionals with comprehensive training and knowledge in the management of acute medical emergencies and critical care scenarios.
    - **Issuer:** [Stanford University School of Medicine](https://med.stanford.edu/).
    - **Date Issued:** This certification was earned on 07 November 2023.
