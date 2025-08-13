@@ -57,6 +57,11 @@ We invite you to explore this repository to gain a deeper understanding of Nambi
    - **Description:** The certificate recognizes his successful completion of a comprehensive program focused on core Artificial Intelligence principles, practical applications, Machine Learning and ethical aspects of artificial intelligence.
    - **Issuer:** [University of Urbino “Carlo Bo](https://www.uniurb.it/international/).
    - **Date Issued:** This certification was earned on 05 August 2025.
+  
+9. [Data Science and Governance](https://github.com/nambili-samuel/certifications/blob/main/Data%20Science.pdf)
+   - **Description:** The certificate acknowledges his successful completion of the Data Science and Data Governance program, conducted as part of AI and Big Data research, and his receipt of a Certificate of Application from Mahidol University (MU).
+   - **Issuer:** [Mahidol University (MU)](https://mahidol.ac.th/).
+   - **Date Issued:** This certification was earned on 03 August 2025.
 
 <!-- Add more certifications as needed -->
 
