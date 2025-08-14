@@ -13,7 +13,7 @@ We invite you to explore this repository to gain a deeper understanding of Nambi
 ## Table of Contents
 
 - [Certifications](#certifications)
-- [How to Use](#how-to-use)
+- [Recognition Badges](#RecognitionBadges)
 - [License](#license)
 
 ## Certifications
@@ -109,10 +109,6 @@ We invite you to explore this repository to gain a deeper understanding of Nambi
   </tbody>
 </table></center>
 
-
-## How to Use
-
-To view a specific certification, locate and click on the certification name listed above. This will open a detailed view of the certification, displaying key information such as the certification authority, date of issuance, and a summary of what it represents. You can easily download the certification in PDF format from this detailed view for offline viewing, record-keeping, or verification.
 
 ##  Connect Nambili Samuel
 
