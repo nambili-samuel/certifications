@@ -65,7 +65,7 @@ We invite you to explore this repository to gain a deeper understanding of Nambi
 
 <!-- Add more certifications as needed -->
 
-# 🏆 Recognition Badges
+## 🏆 Recognition Badges
 
 <center><table>
   <tbody>
